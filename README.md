@@ -3,10 +3,7 @@ tk_flow is a python library structure to have the simplest flowchart capabilitie
 
 
 
- ## Installation
-```bash
-pip install todo-parser
-```
+
 
 
 ## Function Usage
