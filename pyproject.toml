@@ -21,7 +21,7 @@ classifiers = [
   "Programming Language :: Python"
 ]
 
-
+[tool.setuptools_scm]
 
 [project.urls]
 Repository = "https://github.com/ajcecil/tk_flow.git"
