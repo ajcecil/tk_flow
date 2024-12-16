@@ -17,7 +17,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 keywords = ["flowchart", "flow", "flowcharts", "charts"]
 classifiers = [
-  "Development Status :: 4 - Beta",
+  "Development Status :: 5 - Production/Stable",
   "Programming Language :: Python"
 ]
 
