@@ -1,1 +1,1 @@
-from .tk_flow import node, connect
+from .flowchart import node, connect
