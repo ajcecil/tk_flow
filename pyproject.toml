@@ -22,7 +22,7 @@ classifiers = [
 ]
 
 [tool.setuptools_scm]
-write_to = "tk_flow/_version.py"
+write_to = "main/_version.py"
 
 
 [project.urls]
