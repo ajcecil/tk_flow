@@ -22,6 +22,8 @@ classifiers = [
 ]
 
 [tool.setuptools_scm]
+write_to = "tk_flow/_version.py"
+
 
 [project.urls]
 Repository = "https://github.com/ajcecil/tk_flow.git"
